@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sukhdeep Singh 
 - 👀 I’m interested in Android Development using Kotlin
 - 🌱 I’m currently learning jetpack libraries of android development
-- 💞️ I’m looking for a job as fresher android dev and is collaborate on some freelancing projects
+- 💞️ I’m looking for a job as fresher android dev and is open to collaborate on some freelancing projects
 - 📫 If you want to reach me: sukhdeepsingh0409@gmail.com
 
 <!---
